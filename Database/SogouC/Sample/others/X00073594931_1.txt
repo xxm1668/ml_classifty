@@ -1,0 +1,125 @@
+11/08/26
+HTTP:/77174:
+UAES
+国内出差审批表
+Domestic Business TrIP AppROvAI
+流程编号：
+GNYDGC202202263209
+基础信息
+BASIC INFORMATION
+部门科室
+EM/LzP/PM/LzP/MOE2/LzP
+申请人
+工号
+L0374
+DEPT/SEC
+MFE2
+APPICANT
+陆日钦
+出差目的地
+EMPlOyee No
+DESTINATION
+上海
+公出目的
+JMDP - 新任主管的管理技巧培训
+申请日期
+2022-02-24
+DATE
+成本中心
+CIP号
+公出种类
+培训出差 FOR TRAINING
+COST CENTER
+566898
+CIP NO
+TRIP TYPE
+2022-03-05
+8：30
+预计出差日期
+日期
+2022-03-08
+17:00
+2022-03-05
+8：30
+实际出差日期
+日期
+2022-03-08
+17:00
+火车/航班信息（如有）
+TRAIN/FLIGHT INFO （IF ANY）
+序号
+日期
+出发地
+目的地
+班次
+出发时间
+舱位等级
+DATE
+FROM
+TO
+TRAIN/FIIGHT NO
+DEPARTURE TIME
+CLASS
+经济舱ECONOMY
+1
+2022-03-05
+柳州LIUZHOU
+上海SHANGHAI
+12:00
+CLASS
+经济舱
+ECONOMY
+2
+2022-03-08
+上海SHANGHAI
+柳州LUZHOU
+1200
+CLASS
+详细信息
+DETAIL INFORMATION
+机票预估费用
+其他费用
+货币单位
+Estimated air
+3000
+OTHERTNP
+2500
+TICKET EXPENSES
+EXPEnses
+CURRENCY UNT
+人民币 RMB￥
+备注
+1.该门课程因开课时间较早，
+暂未列入培训系统
+见附件。
+REMARKS
+到时是否公出根据疫情情况决定。
+实际是否出差
+是YES
+否NO
+上级审批意见
+批准APPROVA
+不批准 NOT APPROVAL
+退回 RETUM
+JMDP TRAINING
+1ST COURSE
+科经理
+LZP/MOE2/钱峰
+2022-02-26 11:04:24批准
+系统自动批准
+LZP/MFE2/陆日钦（代理 LZP/MFE2/李毓强）2022-02-26 10：46：30
+批准
+部门经理
+LZP/PM/顾云飞2022-02-28 08:59：47
+批准
+BOM
+当地质保科经理
+审批
+QM审批
+
+
+
+
+
+
+

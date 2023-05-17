@@ -1,0 +1,3 @@
+meeting	会议
+notice	通知
+others  其他
